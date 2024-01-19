@@ -1,0 +1,75 @@
+<mjml>
+  <mj-head>
+
+    <mj-html-attributes>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="text-color" text-color="#000000"></mj-html-attribute>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="font-family" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans','Helvetica Neue', sans-serif"></mj-html-attribute>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="font-size" font-size="14px"></mj-html-attribute>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="line-height" line-height="1.7"></mj-html-attribute>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="font-weight" font-weight="400"></mj-html-attribute>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="responsive" responsive="true"></mj-html-attribute>
+
+    </mj-html-attributes>
+
+
+
+
+    <mj-breakpoint width="480px" />
+
+
+    <mj-attributes>
+      <mj-text font-size="14px" />
+      <mj-text line-height="1.7" />
+      <mj-text font-weight="400" />
+      <mj-all font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans','Helvetica Neue', sans-serif" />
+      <mj-text font-size="14px" />
+      <mj-text color="#000000" />
+      <mj-text line-height="1.7" />
+      <mj-text font-weight="400" />
+
+
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#efeeea" width="600px">
+    <mj-wrapper padding="0px 0px 0px 0px" border="none" direction="ltr" text-align="center">
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-spacer height="15px" container-background-color="#FADB11"></mj-spacer>
+        </mj-column>
+      </mj-section>
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-image align="center" height="auto" src="Assets/FTlogo.png" width="150px" padding="10px 0px 10px 0px"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper border="none" direction="ltr" text-align="center" padding="0px 0px 0px 0px">
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-image align="center" height="auto" src="Assets/Amrita.png" padding="0px 0px 0px 0px"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper border="none" direction="ltr" text-align="center" background-color="#030102" padding="20px 20px 20px 20px">
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="center" background-color="#FFFFFF" border-radius="15px" padding="20px 20px 20px 20px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-text align="center" font-family="Helvetica Neue" padding="10px 25px 10px 25px">January&nbsp;<b>2024</b></mj-text>
+          <mj-text align="center" font-family="Playfair DIsplay" font-size="25px" padding="10px 25px 25px 25px">Amrita</mj-text>
+          <mj-image align="center" height="20px" src="Assets/line.png" width="180px" padding="0px 0px 20px 0px"></mj-image>
+          <mj-text align="center" line-height="1.4" letter-spacing="0.3px" font-size="16px" font-family="Helvetica Neue" padding="10px 10px 10px 10px">Meet Amrita, a women's fashion expert, as she speaks about how to find your personal style. Amrita has built iconic brands in India and around the world, and now is the founder of altsleep.com, a luxury loungewear brand for women. Join her on a journey of self-expression and style in our masterclass - Finding Your X Factor.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-text align="center" color="#FADB11" font-family="Playfair Display" font-size="30px" font-style="italic" padding="10px 25px 1px 25px">FutureTayari.com</mj-text>
+          <mj-image align="center" height="auto" src="Assets/arrow.png" width="15px" padding="0px 0px 0px 0px"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-button align="center" background-color="#FADB11" color="#000000" font-weight="normal" border-radius="50px" line-height="120%" target="_blank" vertical-align="middle" border="none" text-align="center" href="https://www.futuretayari.com" font-family="Helvetica Neue" font-size="18px" padding="15px 25px 10px 25px">EPLORE</mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

@@ -1,0 +1,337 @@
+<mjml>
+  <mj-head>
+    <mj-html-attributes>
+      <mj-html-attribute
+        class="easy-email"
+        multiple-attributes="false"
+        attribute-name="text-color"
+        text-color="#000000"
+      ></mj-html-attribute>
+      <mj-html-attribute
+        class="easy-email"
+        multiple-attributes="false"
+        attribute-name="font-family"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans','Helvetica Neue', sans-serif"
+      ></mj-html-attribute>
+      <mj-html-attribute
+        class="easy-email"
+        multiple-attributes="false"
+        attribute-name="font-size"
+        font-size="14px"
+      ></mj-html-attribute>
+      <mj-html-attribute
+        class="easy-email"
+        multiple-attributes="false"
+        attribute-name="line-height"
+        line-height="1.7"
+      ></mj-html-attribute>
+      <mj-html-attribute
+        class="easy-email"
+        multiple-attributes="false"
+        attribute-name="font-weight"
+        font-weight="400"
+      ></mj-html-attribute>
+      <mj-html-attribute
+        class="easy-email"
+        multiple-attributes="false"
+        attribute-name="responsive"
+        responsive="true"
+      ></mj-html-attribute>
+    </mj-html-attributes>
+
+    <mj-breakpoint width="480px" />
+
+    <mj-attributes>
+      <mj-text font-size="14px" />
+      <mj-text line-height="1.7" />
+      <mj-text font-weight="400" />
+      <mj-all
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans','Helvetica Neue', sans-serif"
+      />
+      <mj-text font-size="14px" />
+      <mj-text color="#000000" />
+      <mj-text line-height="1.7" />
+      <mj-text font-weight="400" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#FFFFFF" width="600px">
+    <mj-wrapper
+      padding="0px 0px 0px 0px"
+      border="none"
+      direction="ltr"
+      text-align="center"
+    >
+      <mj-section
+        background-repeat="repeat"
+        background-size="auto"
+        background-position="top center"
+        border="none"
+        direction="ltr"
+        text-align="left"
+        padding="0px 0px 0px 0px"
+      >
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-spacer
+            height="15px"
+            container-background-color="#FADB11"
+          ></mj-spacer>
+        </mj-column>
+      </mj-section>
+      <mj-section
+        background-repeat="repeat"
+        background-size="auto"
+        background-position="top center"
+        border="none"
+        direction="ltr"
+        text-align="left"
+        padding="0px 0px 0px 0px"
+      >
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-image
+            align="center"
+            height="auto"
+            src="Assets/FTlogo.png"
+            width="150px"
+            padding="10px 0px 10px 0px"
+          ></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper
+      border="none"
+      direction="ltr"
+      text-align="center"
+      background-color="#030102"
+      padding="20px 20px 20px 20px"
+    >
+      <mj-section
+        background-repeat="repeat"
+        background-size="auto"
+        background-position="top center"
+        border="none"
+        direction="ltr"
+        text-align="center"
+        background-color="#FFFFFF"
+        border-radius="15px"
+        padding="20px 20px 20px 20px"
+      >
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-text
+            align="center"
+            font-family="Helvetica Neue"
+            padding="10px 25px 10px 25px"
+            >January&nbsp;<b>2024</b></mj-text
+          >
+          <mj-text
+            align="center"
+            font-family="Playfair DIsplay"
+            font-size="22px"
+            padding="10px 25px 25px 25px"
+            >Congratualtions! You belong to the top 20% of our outstanding
+            achievers.</mj-text
+          >
+          <mj-image
+            align="center"
+            height="20px"
+            src="Assets/line.png"
+            width="180px"
+            padding="0px 0px 20px 0px"
+          ></mj-image>
+          <mj-text
+            align="center"
+            line-height="1.8"
+            letter-spacing="0.3px"
+            font-size="16px"
+            font-family="Helvetica Neue"
+            padding="10px 25px 10px 25px"
+            >We're delighted to share that your enthusiasm has insipired us to
+            create something extraordinary just for you.</mj-text
+          >
+        </mj-column>
+      </mj-section>
+      <mj-section
+        background-repeat="repeat"
+        background-size="auto"
+        background-position="top center"
+        border="none"
+        direction="ltr"
+        text-align="left"
+        padding="0px 0px 0px 0px"
+      >
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-text
+            align="center"
+            color="#Fadb11"
+            font-family="Playfair Display"
+            font-size="30px"
+            font-style="italic"
+            padding="10px 25px 10px 25px"
+            >Introducing: The 30-Day Guaranteed Transformation Program</mj-text
+          >
+          <mj-image
+            align="center"
+            height="auto"
+            src="Assets/arrow.png"
+            width="15px"
+            padding="0px 0px 0px 0px"
+          ></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section
+        padding="20px 0px 20px 0px"
+        background-repeat="repeat"
+        background-size="auto"
+        background-position="top center"
+        border="none"
+        direction="ltr"
+        text-align="center"
+      >
+        <mj-column width="33.33%" padding="0px 0px 0px 0px">
+          <mj-image
+            align="center"
+            height="50px"
+            padding="0px 0px 0px 0px"
+            src="Assets/Live.png"
+            width="50px"
+          ></mj-image>
+          <mj-text
+            padding="10px 25px 15px 25px"
+            align="center"
+            color="#FFFFFF"
+            font-family="Helvetica Neue"
+            >Live interactive sessions for personalised guidance!</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33%">
+          <mj-image
+            align="center"
+            height="50px"
+            padding="0px 0px 0px 0px"
+            src="Assets/SelfPaced.png"
+            width="50px"
+          ></mj-image>
+          <mj-text
+            padding="10px 25px 15px 25px"
+            align="center"
+            color="#FFFFFF"
+            font-family="Helvetica Neue"
+            >Self-Paced modules tailored to your busy schedule.</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33%">
+          <mj-image
+            align="center"
+            height="50px"
+            padding="0px 0px 0px 0px"
+            src="Assets/Game.png"
+            width="50px"
+          ></mj-image>
+          <mj-text
+            padding="10px 25px 15px 25px"
+            align="center"
+            color="#FFFFFF"
+            font-family="Helvetica Neue"
+            >Engaging gamified tests to keep you on your toes.</mj-text
+          >
+        </mj-column>
+      </mj-section>
+      <mj-section
+        background-repeat="repeat"
+        background-size="auto"
+        background-position="top center"
+        border="none"
+        direction="ltr"
+        text-align="center"
+        background-color="#FFFFFF"
+        border-radius="15px"
+        padding="20px 20px 20px 20px"
+      >
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-text
+            align="left"
+            font-family="Playfair Display"
+            padding="10px 25px 10px 25px"
+            font-size="22px"
+            ><b>Our Mentors</b></mj-text
+          >
+          <mj-carousel
+            align="center"
+            left-icon="https://i.imgur.com/xTh3hln.png"
+            right-icon="https://i.imgur.com/os7o9kz.png"
+            icon-width="30px"
+            thumbnails="visible"
+            tb-hover-border-color="#000000"
+            tb-selected-border-color="#Fadb11"
+            tb-width="60px"
+          >
+            <mj-carousel-image src="Assets/Deepak.jpg" target="_blank" />
+
+            <mj-carousel-image src="Assets/Shraddha.jpg" target="_blank" />
+
+            <mj-carousel-image src="Assets/Amrita.jpg" target="_blank" />
+
+            <mj-carousel-image src="Assets/Geetarsh.jpg" target="_blank" />
+          </mj-carousel>
+          <mj-text
+            align="center"
+            font-family="Playfair DIsplay"
+            font-size="22px"
+            padding="25px 25px  25px"
+            >Ready for the next chapter of your success journey?
+            <div><b>Heres what you can do:</b></div>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section
+        padding="20px 0px 20px 0px"
+        background-repeat="repeat"
+        background-size="auto"
+        background-position="top center"
+        border="none"
+        direction="ltr"
+        text-align="center"
+      >
+        <mj-column width="50%" padding="0px 0px 0px 0px">
+          <mj-button
+            align="center"
+            background-color="#Fadb11"
+            color="#000000"
+            font-weight="normal"
+            border-radius="30px"
+            padding="10px 25px 10px 25px"
+            inner-padding="10px 25px 10px 25px"
+            line-height="120%"
+            target="_blank"
+            vertical-align="middle"
+            border="none"
+            text-align="center"
+            href="#"
+            font-size="30px"
+            font-family="Playfair Display"
+            >Know More</mj-button
+          >
+        </mj-column>
+        <mj-column width="50%">
+          <mj-button
+            align="center"
+            background-color="#000000"
+            color="#ffffff"
+            font-weight="normal"
+            border-radius="30px"
+            padding="10px 25px 10px 25px"
+            inner-padding="10px 25px 10px 25px"
+            line-height="120%"
+            target="_blank"
+            vertical-align="middle"
+            border="solid 2px #Fadb11"
+            text-align="center"
+            href="#"
+            font-family="Helvetica Neue"
+            font-size="15px"
+            >No, I don't want to improve myself</mj-button
+          >
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

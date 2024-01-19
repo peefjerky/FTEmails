@@ -1,0 +1,80 @@
+<mjml>
+  <mj-head>
+
+    <mj-html-attributes>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="text-color" text-color="#000000"></mj-html-attribute>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="font-family" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans','Helvetica Neue', sans-serif"></mj-html-attribute>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="font-size" font-size="14px"></mj-html-attribute>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="line-height" line-height="1.7"></mj-html-attribute>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="font-weight" font-weight="400"></mj-html-attribute>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="responsive" responsive="true"></mj-html-attribute>
+
+    </mj-html-attributes>
+
+
+
+
+    <mj-breakpoint width="480px" />
+
+
+    <mj-attributes>
+      <mj-text font-size="14px" />
+      <mj-text line-height="1.7" />
+      <mj-text font-weight="400" />
+      <mj-all font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans','Helvetica Neue', sans-serif" />
+      <mj-text font-size="14px" />
+      <mj-text color="#000000" />
+      <mj-text line-height="1.7" />
+      <mj-text font-weight="400" />
+
+
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#efeeea" width="600px">
+    <mj-wrapper padding="0px 0px 0px 0px" border="none" direction="ltr" text-align="center">
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-spacer height="15px" container-background-color="#FADB11"></mj-spacer>
+        </mj-column>
+      </mj-section>
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-image align="center" height="auto" src="FTlogo.png" width="150px" padding="10px 0px 10px 0px"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper border="none" direction="ltr" text-align="center" padding="0px 0px 0px 0px">
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-image align="center" height="auto" src="2024.png" padding="0px 0px 0px 0px"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper border="none" direction="ltr" text-align="center" background-color="#030102" padding="20px 20px 20px 20px">
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="center" background-color="#FFFFFF" border-radius="15px" padding="20px 20px 20px 20px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-text align="center" font-family="Helvetica Neue" padding="10px 25px 10px 25px">December <b>2023</b></mj-text>
+          <mj-text align="center" font-family="Playfair DIsplay" font-size="22px" padding="10px 25px 25px 25px">As You Change the Calendar on Your Desk, Think About This:</mj-text>
+          <mj-image align="center" height="20px" src="line.png" width="180px" padding="0px 0px 20px 0px"></mj-image>
+          <mj-text align="center" line-height="1.8" letter-spacing="0.3px" font-size="16px" font-family="Helvetica Neue" padding="10px 25px 10px 25px">Change is the only constant. With change comes personal growth. This can only happen by refining your communication skills and cultivating a more charismatic presence.<div><br>
+              <div>This journey involves actively listening, honing your verbal and non-verbal communication, and fostering connections that go beyond the surface.</div>
+              <div><br></div>
+              <div>At FutureTayari, we are proud to be with your on this journey of transformation.</div>
+            </div>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-text align="center" color="#f8e71c" font-family="Playfair Display" font-size="30px" font-style="italic" padding="10px 25px 1px 25px">Reach the Destination</mj-text>
+          <mj-image align="center" height="auto" src="arrow.png" width="15px" padding="0px 0px 0px 0px"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-button align="center" background-color="#f8e71c" color="#000000" font-weight="normal" border-radius="50px" line-height="120%" target="_blank" vertical-align="middle" border="none" text-align="center" href="#" font-family="Helvetica Neue" font-size="18px" padding="15px 25px 10px 25px">Begin the Journey</mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
